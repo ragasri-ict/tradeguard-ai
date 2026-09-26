@@ -1,4 +1,4 @@
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "https://tradeguard-ai-e3jb.onrender.com";
 
 export async function getCompanies() {
   const response = await fetch(
