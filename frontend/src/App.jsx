@@ -195,7 +195,7 @@ function App() {
           <div>
 
             <h2>
-              MarketIntel
+             TradeGaurd AI
             </h2>
 
             <span>
